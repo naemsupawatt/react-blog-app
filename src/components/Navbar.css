@@ -1,0 +1,21 @@
+nav{
+    display: flex;  
+    background-color: rgb(32, 32, 32);
+    padding: 10px;
+}
+.logo{
+    margin-left: 15px;
+    margin-right: auto;
+    color: white;
+
+}
+nav a{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 2rem;
+    color: white;
+    text-decoration: none;
+}   
+nav a:hover{
+    color: rgb(255, 234, 0);
+}
